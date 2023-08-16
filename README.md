@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weixiang-Sun)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weixiang-Sun&exclude_repo=github-readme-stats,Weixiang-Sun.github.io)
 ![Weixiang Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weixiang-Sun&show_icons=true&theme=tokyonight)
