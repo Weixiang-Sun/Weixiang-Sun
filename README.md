@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weixiang-Sun&layout=compact&exclude_repo=Weixiang-Sun.github.io)](https://github.com/Weixiang-Sun/github-readme-stats)
 ![Weixiang Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weixiang-Sun&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weixiang-Sun)](https://github.com/anuraghazra/github-readme-stats)
